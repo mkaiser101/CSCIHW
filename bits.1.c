@@ -203,7 +203,7 @@ int tmax(void) {
  *   Examples: fitsBits(5,3) = 0, fitsBits(-4,3) = 1
  *   Legal ops: ! ~ & ^ | + << >>
  *   Max ops: 15
- *   Rating: 2
+ *  Rating: 2
  */
 int fitsBits(int x, int n) {
  int shifted = (~x)>>(n+~0);        //set x to 1 and 0
