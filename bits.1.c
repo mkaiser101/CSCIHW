@@ -27,7 +27,7 @@ team_struct team =
    /* Student name 1: Replace with the full name of first team member */
    "Matthew Kaiser",
    /* Login ID 1: Replace with the login ID of first team member */
-   "103305050",
+   "***",
 
    /* The following should only be changed if there are two team members */
    /* Student name 2: Full name of the second team member */
