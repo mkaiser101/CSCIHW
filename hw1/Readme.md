@@ -1,3 +1,9 @@
+To Use:
+**********
+./a.out
+dmesg
+**********
+
 Contact info: Matthew Kaiser 103305050
 Email:  maka1279@colorado.edu
 
