@@ -1,2 +1,1 @@
-# CSCIHW
-Various Computer Science homework 
+# Spring 2017 OS @ CU
